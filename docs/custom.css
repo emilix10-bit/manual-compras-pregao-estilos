@@ -1,0 +1,4 @@
+/* Remove o limite de 800px e expande o manual na tela */
+.wy-nav-content {
+    max-width: 100% !important;
+}

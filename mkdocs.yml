@@ -1,0 +1,15 @@
+site_name: Manual Compras.gov.br - Pregão Eletrônico
+
+theme:
+  name: readthedocs
+
+nav:
+  - Início: index.md
+  - 1. Criar a Contratação: 01-criar-contratacao.md
+  - 2. Divulgar a Contratação: 02-divulgar-contratacao.md
+  - 3. Inclusão de Itens e Benefícios: 03-inclusao-itens.md
+  - 4. Grupos, Anexos e Publicação: 04-grupos-anexos-responsaveis.md
+  - 🖨️ Versão para Impressão: versao-impressao.md
+
+extra_css:
+  - custom.css
