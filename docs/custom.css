@@ -20,3 +20,73 @@
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
+
+/* --- ESTILOS DO POPUP/LIGHTBOX --- */
+
+/* 1. Prepara a imagem original no texto */
+.rst-content img, .md-content img {
+    cursor: zoom-in; /* Transforma o mouse em uma lupa ao passar por cima */
+    transition: transform 0.2s ease; /* Efeito suave ao passar o mouse */
+}
+
+.rst-content img:hover {
+    transform: scale(1.01); /* Micro-zoom no hover para indicar que é clicável */
+}
+
+/* 2. O contêiner do Popup (a camada escura de fundo) */
+#lightbox-overlay {
+    display: none; /* Começa escondido */
+    position: fixed;
+    z-index: 9999; /* Fica em cima de tudo (menu, cabeçalho) */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85); /* Fundo preto 85% transparente */
+    cursor: zoom-out; /* Mouse vira 'lupa de menos' para fechar ao clicar no fundo */
+    opacity: 0;
+    transition: opacity 0.3s ease; /* Animação de esmaecer */
+}
+
+/* Quando o popup estiver ativo */
+#lightbox-overlay.active {
+    display: flex; /* Exibe e alinha a imagem no centro */
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+}
+
+/* 3. A imagem dentro do popup */
+#lightbox-image {
+    max-width: 90%; /* Ocupa no máximo 90% da largura da tela */
+    max-height: 90%; /* Ocupa no máximo 90% da altura da tela */
+    border: 4px solid white;
+    border-radius: 4px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    cursor: default; /* Mouse normal em cima da imagem */
+    transform: scale(0.9);
+    transition: transform 0.3s ease;
+}
+
+/* Animação da imagem crescendo ao abrir */
+#lightbox-overlay.active #lightbox-image {
+    transform: scale(1);
+}
+
+/* 4. O botão de fechar (X) */
+#lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+    user-select: none;
+}
+
+#lightbox-close:hover {
+    color: #ccc;
+    transform: scale(1.1);
+}
