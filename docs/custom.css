@@ -1,5 +1,3 @@
-
-
 /* Formatação automática para todas as imagens do manual */
 .rst-content img, .md-content img {
     width: 100% !important;        /* Força 100% de largura para máxima legibilidade */
