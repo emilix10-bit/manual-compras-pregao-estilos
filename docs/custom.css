@@ -9,10 +9,10 @@
     max-width: none !important;
 }
 
-/* 3. Garante que as imagens ocupem 100% da nova largura total com borda elegante */
+/* 3. Garante que as imagens ocupem uma porcentagem % da largura total com borda elegante */
 .rst-content img, .md-content img {
-    width: 100% !important;
-    max-width: 100% !important;
+    width: 75% !important;
+    max-width: 75% !important;
     height: auto !important;
     display: block;
     margin: 28px 0 !important;
