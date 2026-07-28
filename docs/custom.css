@@ -1,11 +1,22 @@
-/* Formatação automática para todas as imagens do manual */
+/* 1. Destrava a largura máxima do contêiner principal do Read the Docs */
+.wy-nav-content {
+    max-width: none !important; /* Remove a trava de 800px da página */
+    width: 100% !important;
+}
+
+/* 2. Remove o limite de largura do bloco de texto interno */
+.rst-content {
+    max-width: none !important;
+}
+
+/* 3. Garante que as imagens ocupem 100% da nova largura total com borda elegante */
 .rst-content img, .md-content img {
-    width: 100% !important;        /* Força 100% de largura para máxima legibilidade */
+    width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
     display: block;
-    margin: 28px 0 !important;      /* Espaçamento vertical para não colar no texto */
-    border: 1px solid #d1d5db;     /* Borda suave cinza */
-    border-radius: 8px;            /* Arredondamento elegante */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Sombra para dar profundidade */
+    margin: 28px 0 !important;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
