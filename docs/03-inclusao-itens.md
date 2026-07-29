@@ -29,7 +29,7 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ![Salvar unidade e valor unitário](Imagens/22-Inclusao-de-itens-Catalogo.png)
 
-<div style="background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
+<div style="display: block; background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
   <strong>NOTA:</strong> Repita os passos 18 a 21 para todos os itens de sua contratação.
 </div>
 
