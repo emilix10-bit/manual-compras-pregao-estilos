@@ -90,9 +90,9 @@
 </div>
 
 <div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
-  <strong>ATENÇÃO:</strong> Devem ser inseridos, no mínimo, os seguintes responsáveis:
-  * <strong>Pregão:</strong> pregoeiro
-  * <strong>Concorrência e Concurso:</strong> Agente de contratação ou membro de comissão de contratação
+  <strong>ATENÇÃO:</strong> Devem ser inseridos, no mínimo, os seguintes responsáveis:<br>
+  &bull; <strong>Pregão:</strong> pregoeiro<br>
+  &bull; <strong>Concorrência e Concurso:</strong> Agente de contratação ou membro de comissão de contratação
 </div>
 
 ---
