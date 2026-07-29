@@ -79,6 +79,8 @@
 
 **Passo 49:** Na aba Responsáveis devem ser incluídas informações dos responsáveis. Para isso, clique em “+Adicionar”.
 
+![Adicionar descrição](Imagens/63-Responsaveis.png)
+
 **Passo 50:** Insira o CPF e o e-mail do responsável, selecione seu Cargo/Função e clique em “Adicionar”.
 
 ![Dados do responsável](Imagens/64-Responsaveis.png)
