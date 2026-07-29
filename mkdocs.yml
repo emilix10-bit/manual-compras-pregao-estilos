@@ -11,5 +11,10 @@ nav:
   - 4. Grupos, Anexos e Publicação: 04-grupos-anexos-responsaveis.md
   - 🖨️ Versão para Impressão: versao-impressao.md
 
+
+# Configuração dos estilos e scripts customizados
 extra_css:
   - custom.css
+
+extra_javascript:
+  - js/custom.js
