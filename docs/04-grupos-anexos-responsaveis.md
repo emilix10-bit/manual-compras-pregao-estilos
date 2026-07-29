@@ -85,11 +85,17 @@
 
 ![Dados do responsável](Imagens/64-Responsaveis.png)
 
-> **IMPORTANTE:** É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
+<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
+  <strong>ATENÇÃO:</strong> É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
+</div>
 
-> **Atenção!** Devem ser inseridos, no mínimo, os responsáveis:
-> * **Pregão** - Pregoeiro  
-> * **Concorrência e Concurso** - Agente de contratação ou membro de comissão de contratação  
+<br>
+
+<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
+  <strong>ATENÇÃO:</strong> Devem ser inseridos, no mínimo, os seguintes responsáveis:
+  * <strong>Pregão:</strong> pregoeiro
+  * <strong>Concorrência e Concurso:</strong> Agente de contratação ou membro de comissão de contratação
+</div>
 
 ---
 
