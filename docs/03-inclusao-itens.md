@@ -4,7 +4,7 @@
   </button>
 </div>
 
-# Terceira Etapa: Inclusão e Configuração de Itens
+# Inclusão e Configuração de Itens
 
 Existem duas formas de incluir itens na sua contratação: diretamente pelo **Catálogo integrado** ou por meio do upload de uma **Planilha Eletrônica**.
 
@@ -12,7 +12,7 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ## Opção A: Inclusão de Itens pelo Catálogo
 
-**Passo 18:** Na aba Itens/Grupos, serão realizadas as inclusões dos itens da contratação. Para incluir diretamente do Catálogo integrado ao Novo DC, clique em “+Adicionar”.
+**Passo 18:** Na aba **Itens/Grupos**, serão realizadas as inclusões dos itens da contratação. Para incluir diretamente do Catálogo integrado ao Novo DC, clique em “+Adicionar”.
 
 ![Inclusão de itens pelo Catálogo](Imagens/19-Inclusao-de-itens-Catalogo.png)
 
@@ -51,7 +51,7 @@ Pronto. Seus itens foram adicionados a sua contratação.
 
 Siga os passos abaixo para adicionar itens usando uma planilha eletrônica.
 
-**Passo 24:** Na aba Itens/Grupos, localize o ícone “Upload de itens”.
+**Passo 24:** Na aba **Itens/Grupos**, localize o ícone “Upload de itens”.
 
 ![Upload de itens por planilha](Imagens/26-Inclusao-de-itens-Planilha.png)
 
