@@ -194,8 +194,6 @@ Selecionando a opção de **Benefício Cota Reservada**, o item em edição ser�
 
 Para definir o quantitativo de cada uma das cotas, retorne para a aba “Locais de Entrega”.
 
-![Retornar para Locais de Entrega](Imagens/76-beneficios-da-compra.png)
-
 Atribua os quantitativos para participação aberta e para exclusiva para ME/EPP.
 
 ![Quantitativos das cotas](Imagens/77-beneficios-da-compra.png)
