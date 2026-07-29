@@ -6,7 +6,6 @@
 
 # PROCEDIMENTOS PARA REALIZAÇÃO DE LICITAÇÕES ELETRÔNICAS TRADICIONAIS
 
----
 
 # Primeira Etapa: Criar a contratação
 
