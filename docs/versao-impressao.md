@@ -25,8 +25,8 @@ Neste tutorial, abordamos o <strong>passo a passo para publicação de um pregã
 
 Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
 
-* [Padrão - formato html com paginação](./)
-* [Página única - formato html em página única (impressão)](versao-impressao.md)
+* [Padrão - escolha qual seção quer acessar](./)
+* [Página única - todo o manual em página única (impressão)](versao-impressao.md)
 
 
 # PROCEDIMENTOS PARA REALIZAÇÃO DE LICITAÇÕES ELETRÔNICAS TRADICIONAIS
