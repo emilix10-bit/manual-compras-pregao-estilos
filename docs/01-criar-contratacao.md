@@ -4,6 +4,10 @@
   </button>
 </div>
 
+# PROCEDIMENTOS PARA REALIZAÇÃO DE LICITAÇÕES ELETRÔNICAS TRADICIONAIS
+
+---
+
 # Primeira Etapa: Criar a contratação
 
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
