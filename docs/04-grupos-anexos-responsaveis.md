@@ -77,7 +77,7 @@
 
 ![Aba Responsáveis](Imagens/62-Responsaveis.png)
 
-**Passo 49:** Na aba Responsáveis devem ser incluídas informações dos responsáveis. Para isso, clique em “+Adicionar”.
+**Passo 49:** Na aba **Responsáveis** devem ser incluídas informações dos responsáveis. Para isso, clique em “+Adicionar”.
 
 ![Adicionar descrição](Imagens/63-Responsaveis.png)
 
