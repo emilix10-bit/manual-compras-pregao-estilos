@@ -57,14 +57,9 @@ Os modos de disputa exibidos em tela variam de acordo com a modalidade da licita
 
 ![Tela 12](Imagens/12-forma-de-realizacao.png)
 
-> **Observação:**
-> * A opção **Eletrônico** encaminhará seu processo para a sala de disputa virtual, onde fornecedores interessados se conectarão ao seu processo de forma virtual.
-> * A opção **Presencial** resultará na realização de sessão pública presencial e no posterior registro de resultados.
-
-
 <div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
   <strong>OBSERVAÇÃO:</strong> A opção <strong>Eletrônico</strong> encaminhará seu processo para a sala de disputa virtual, onde fornecedores interessados se conectarão ao seu processo de forma virtual.
-  A opção <strong>Presencial</strong> resultará na realização de sessão pública presencial e no posterior registro de resultados.
+  <br> A opção <strong>Presencial</strong> resultará na realização de sessão pública presencial e no posterior registro de resultados.
 </div>
 
 ---
