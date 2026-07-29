@@ -4,13 +4,13 @@
   </button>
 </div>
 
-# Quarta Etapa: Grupos, Anexos, Responsáveis e Publicação
+# Grupos, Anexos, Responsáveis e Publicação
 
 ---
 
 ## Formação de Grupos de Itens
 
-**Passo 38:** Na aba Itens/Grupos, selecione os itens que deseja agrupar, e clique em “Criar Grupo”.
+**Passo 38:** Na aba **Itens/Grupos**, selecione os itens que deseja agrupar, e clique em “Criar Grupo”.
 
 ![Criar grupo de itens](Imagens/47-Acoes-em-lote-grupo.png)
 
@@ -35,9 +35,7 @@
 
 ## Inclusão de Anexos e Artefatos Vinculados
 
-![Aba Anexos](Imagens/53-Anexos.png)
-
-**Passo 43:** Na aba Anexos, podem ser vinculados artefatos digitais da contratação ou documentos complementares. Para vincular os artefatos, clique em “+Vincular”.
+**Passo 43:** Na aba **Anexos**, podem ser vinculados artefatos digitais da contratação ou documentos complementares. Para vincular os artefatos, clique em “+Vincular”.
 
 ![Vincular artefatos digitais](Imagens/54-Anexos.png)
 
