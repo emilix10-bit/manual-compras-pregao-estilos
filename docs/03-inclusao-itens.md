@@ -101,7 +101,7 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Expandir detalhes do item](Imagens/34-Configuracao-de-item.png)
 
-**Passo 29:** Em Detalhes, selecione o Critério de Julgamento.
+**Passo 29:** Em **Detalhes**, selecione o Critério de Julgamento.
 
 ![Critério de julgamento](Imagens/36-Configuracao-de-item.png)
 
@@ -113,7 +113,7 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Salvar detalhes do item](Imagens/38-Configuracao-de-item.png)
 
-**Passo 32:** Em Locais de Entrega, clique em “+Local de entrega”.
+**Passo 32:** Em **Locais de Entrega**, clique em “+Local de entrega”.
 
 ![Adicionar local de entrega](Imagens/39-Configuracao-de-item.png)
 
@@ -121,7 +121,13 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Quantidade e local de entrega](Imagens/40-Configuracao-de-item.png)
 
-> **Observação:** Pode ser incluído mais de um (1) local de entrega.
+<br>
+
+<div style="display: block; background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
+  <strong>OBSERVAÇÃO:</strong> Pode ser incluído mais de um (1) local de entrega.
+</div>
+
+<br>
 
 ![Múltiplos locais de entrega](Imagens/40-1-adicionar-mais-locais-de-entrega.png)
 
