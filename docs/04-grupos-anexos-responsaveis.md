@@ -63,7 +63,13 @@
 
 ![Documentos anexados](Imagens/61-Anexos.png)
 
-> **Atenção!!** É necessário juntar, no mínimo, o edital aos arquivos anexos.
+<br>
+
+<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
+  <strong>ATENÇÃO:</strong>  É necessário juntar, no mínimo, o edital aos arquivos anexos.
+</div>
+
+<br>
 
 ---
 
