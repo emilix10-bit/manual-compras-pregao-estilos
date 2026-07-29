@@ -6,7 +6,7 @@
 
 # Manual sistema Compras.gov.br - Pregão Eletrônico pela Lei nº 13.303/2016 no Novo Divulgação de Compras (Novo DC)
 
-**PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO**
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
 
 Agora, **empresas estatais podem realizar pregões eletrônicos ou presenciais fundamentados na Lei nº 13.303/2016 pelo Novo Divulgação de Compras (Novo DC)**, disponível no sistema Compras.gov.br.  
 
