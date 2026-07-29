@@ -59,9 +59,13 @@ Siga os passos abaixo para adicionar itens usando uma planilha eletrônica.
 
 ![Upload de itens por planilha](Imagens/26-Inclusao-de-itens-Planilha.png)
 
+<br>
+
 <div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
   <strong>ATENÇÃO:</strong> O sistema apresentará um link com modelo de planilha para ser seguido. É importante que esse modelo seja seguido para a correta importação dos itens.
 </div>
+
+<br>
 
 ![Modelo de planilha de itens](Imagens/27-Inclusao-de-itens-Planilha.png)
 
