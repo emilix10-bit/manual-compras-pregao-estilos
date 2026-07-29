@@ -12,7 +12,10 @@ Agora, **empresas estatais podem realizar pregões eletrônicos ou presenciais f
 
 Os pregões das empresas estatais poderão ser realizados em processos previstos no Planejamento e Gerenciamento de Contratações (PGC) ou em novo processo de compra.  
 
-Neste tutorial, abordamos o passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-divulgar-contratacao.md) e vá direto para a segunda etapa deste tutorial.  
+<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
+  Neste tutorial, abordamos o **passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo**. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-divulgar-contratacao.md) e vá direto para a segunda etapa deste tutorial.
+</div>
+
 
 <div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
   <strong>Observação:</strong> Contratações no Sistema de Registro de Preços estão no manual <strong>CONTRATAÇÕES SRP</strong>.
