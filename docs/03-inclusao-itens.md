@@ -33,6 +33,8 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
   <strong>NOTA:</strong> Repita os passos 18 a 21 para todos os itens de sua contratação.
 </div>
 
+<br>
+
 **Passo 22:** Depois de inseridos todos os itens, clique no carrinho localizado no canto superior direito.
 
 ![Carrinho de itens](Imagens/23-Inclusao-de-itens-Catalogo.png)
