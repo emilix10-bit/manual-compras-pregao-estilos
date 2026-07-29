@@ -7,6 +7,9 @@
 # Primeira Etapa: Criar a contratação
 
 Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
+
+---
+
 **Passo 1:** Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”.
 
 ![adicionar descrição de imagem](Imagens/01-Acesso-ao-sistema.png)
