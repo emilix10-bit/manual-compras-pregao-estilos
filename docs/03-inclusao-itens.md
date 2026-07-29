@@ -29,6 +29,8 @@ Existem duas formas de incluir itens na sua contratação: diretamente pelo **Ca
 
 ![Salvar unidade e valor unitário](Imagens/22-Inclusao-de-itens-Catalogo.png)
 
+<br>
+
 <div style="display: block; background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
   <strong>NOTA:</strong> Repita os passos 18 a 21 para todos os itens de sua contratação.
 </div>
@@ -222,8 +224,12 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 ![Exigência de conteúdo nacional](Imagens/85-beneficios-da-compra.png)
 
 ---
+<br>
 
-> **Nota:** Repita os passos acima para todos os itens da contratação.
+<div style="display: block; background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
+  <strong>NOTA:</strong> Repita os passos acima para todos os itens de sua contratação.
+</div>
+
 
 <div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
