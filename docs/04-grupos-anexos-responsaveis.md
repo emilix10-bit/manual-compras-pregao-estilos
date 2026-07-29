@@ -89,8 +89,6 @@
   <strong>ATENÇÃO:</strong> É necessário indicar, entre os responsáveis, um servidor como responsável pela publicação na Imprensa Nacional que deverá ser cadastrado com a Imprensa Nacional para essa função.
 </div>
 
-<br>
-
 <div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
   <strong>ATENÇÃO:</strong> Devem ser inseridos, no mínimo, os seguintes responsáveis:
   * <strong>Pregão:</strong> pregoeiro
