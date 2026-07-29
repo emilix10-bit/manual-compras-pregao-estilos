@@ -28,7 +28,6 @@ Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informaç�
 <div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
   <strong>ATENÇÃO:</strong> Neste manual, faremos o passo a passo de uma concorrência, mas as demais modalidades seguem os mesmos passos.
 </div>
-
 ---
 
 **Passo 8:** Para definir o **Fundamento legal** da contratação, clique no ícone de lápis.
