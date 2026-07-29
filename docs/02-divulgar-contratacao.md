@@ -83,7 +83,7 @@ Os modos de disputa exibidos em tela variam de acordo com a modalidade da licita
 
 ---
 
-**Passo 15:** Na aba Dados adicionais da contratação, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para o preenchimento correto das informações.
+**Passo 15:** Na aba **Dados adicionais da contratação**, preencha os dados do empenho para a publicação no Diário Oficial da União. Se necessário, consulte os dados de seu órgão para o preenchimento correto das informações.
 
 ![Tela 16](Imagens/16-Dados-adicionais-da-contratacao.png)
 
