@@ -3,6 +3,10 @@ site_name: Manual Compras.gov.br - Pregão Eletrônico
 theme:
   name: readthedocs
 
+markdown_extensions:
+  - md_in_html
+  - admonition
+  
 nav:
   - Início: index.md
   - Primeira etapa: Criar a Contratação: 01-criar-contratacao.md
