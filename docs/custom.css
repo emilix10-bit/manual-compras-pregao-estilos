@@ -15,7 +15,7 @@
     max-width: 75% !important;
     height: auto !important;
     display: block;
-    margin: 28px 0 !important;
+    margin: 28px auto !important;
     border: 1px solid #d1d5db;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
