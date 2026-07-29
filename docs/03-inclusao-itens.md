@@ -172,17 +172,23 @@ Selecione o tipo de benefício entre a lista apresentada.
 
 ![Selecione o tipo de benefício](Imagens/73-beneficios-da-compra.png)
 
-Selecionando a opção de **Benefício Exclusivo MEP**, o item ficará exclusivo para microempresa e empresas de pequeno porte, ou seja, apenas empresas assim enquadradas poderão participar da licitação deste item.  
+Selecionando a opção de **Benefício Exclusivo ME/EPP**, o item ficará exclusivo para microempresa e empresas de pequeno porte, ou seja, apenas empresas assim enquadradas poderão participar da licitação deste item.  
 
 Selecionando a opção **Benefício Subcontratação**, será necessário incluir percentuais mínimo e máximo para subcontratação do item.
 
 ![Benefício Subcontratação](Imagens/74-beneficios-da-compra.png)
 
-Selecionando a opção de **Benefício Cota Reservada**, o item em edição será separado em dois: um item de cota principal e um item de cota reservada cota reservada. Selecione a opção no campo indicado e salve.
+Selecionando a opção de **Benefício Cota Reservada**, o item em edição será separado em dois: um item de cota principal e um item de cota reservada. Selecione a opção no campo indicado e salve.
 
 ![Benefício Cota Reservada](Imagens/75-beneficios-da-compra.png)
 
-> **ATENÇÃO:** O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar!
+<br>
+
+<div style="display: block; background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
+  <strong>ATENÇÃO:</strong> O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
+</div>
+
+<br>
 
 Para definir o quantitativo de cada uma das cotas, retorne para a aba “Locais de Entrega”.
 
