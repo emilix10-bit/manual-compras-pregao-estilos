@@ -227,6 +227,33 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
   <strong>NOTA:</strong> Repita os passos acima para todos os itens de sua contratação.
 </div>
 
+# Grupos, Anexos, Responsáveis e Publicação
+
+---
+
+## Formação de Grupos de Itens
+
+**Passo 38:** Na aba **Itens/Grupos**, selecione os itens que deseja agrupar, e clique em “Criar Grupo”.
+
+![Criar grupo de itens](Imagens/47-Acoes-em-lote-grupo.png)
+
+**Passo 39:** Dê um Apelido para o grupo.
+
+![Apelido para o grupo](Imagens/48-Acoes-em-lote-grupo.png)
+
+**Passo 40:** Selecione o critério de julgamento e clique em “Confirmar”.
+
+![Critério de julgamento do grupo](Imagens/49-Acoes-em-lote-grupo.png)
+
+**Passo 41:** Atribua os benefícios ao grupo e salve.
+
+![Atribuir benefícios ao grupo - Parte 1](Imagens/50-Acoes-em-lote-grupo.png)
+![Atribuir benefícios ao grupo - Parte 2](Imagens/51-Acoes-em-lote-grupo.png)
+
+**Passo 42:** Finalize a configuração dos itens do grupo e clique em “Salvar”.
+
+![Configuração final do grupo](Imagens/52-Acoes-em-lote-grupo-Configuracao-final.png)
+
 <div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
