@@ -123,13 +123,23 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 ![Quantidade e local de entrega](Imagens/40-Configuracao-de-item.png)
 
-!!! info "OBSERVAÇÃO"
-    Pode ser incluído mais de um (1) local de entrega.
+<br>
+
+<div style="background-color: #e8f4f8; border-left: 5px solid #0275d8; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #004085;">
+  <strong>OBSERVAÇÃO:</strong> Pode ser incluído mais de um (1) local de entrega.
+</div>
+
+<br>
 
 ![Múltiplos locais de entrega](Imagens/40-1-adicionar-mais-locais-de-entrega.png)
 
-!!! warning "ATENÇÃO"
-    Você também poderá atribuir um local de entrega a vários itens simultaneamente.
+<br>
+
+<div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
+  <strong>ATENÇÃO:</strong> Você também poderá atribuir um local de entrega a vários itens simultaneamente.
+</div>
+
+<br>
 
 **Passo 34:** Para isso, na página inicial dos itens da contratação, selecione os itens que têm o mesmo endereço de entrega, clicando na caixa ao lado da descrição dos itens e clique em “Adicionar Locais de Entrega”.
 
@@ -174,8 +184,13 @@ Selecionando a opção de **Benefício Cota Reservada**, o item em edição ser�
 
 ![Benefício Cota Reservada](Imagens/75-beneficios-da-compra.png)
 
-!!! warning "ATENÇÃO"
-    O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
+<br>
+
+<div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #856404;">
+  <strong>ATENÇÃO:</strong> O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
+</div>
+
+<br>
 
 Para definir o quantitativo de cada uma das cotas, retorne para a aba “Locais de Entrega”.
 
