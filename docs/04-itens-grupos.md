@@ -130,7 +130,6 @@ O relatório apresentado indicará os possíveis erros no carregamento de dados.
 
 !!! warning "ATENÇÃO"
     Você também poderá atribuir um local de entrega a vários itens simultaneamente.
-<br>
 
 **Passo 34:** Para isso, na página inicial dos itens da contratação, selecione os itens que têm o mesmo endereço de entrega, clicando na caixa ao lado da descrição dos itens e clique em “Adicionar Locais de Entrega”.
 
@@ -177,7 +176,6 @@ Selecionando a opção de **Benefício Cota Reservada**, o item em edição ser�
 
 !!! warning "ATENÇÃO"
     O item de cota reservada preservará as características do item principal, então revise as informações antes de salvar.
-<br>
 
 Para definir o quantitativo de cada uma das cotas, retorne para a aba “Locais de Entrega”.
 
@@ -212,7 +210,6 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 
 !!! success "NOTA"
     Repita os passos acima para todos os itens de sua contratação.
-<br>
 
 ## Formação de Grupos de Itens
 
