@@ -223,8 +223,11 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
 
 ---
 
-!!! success "NOTA"
-    Repita os passos acima para todos os itens de sua contratação.
+<div style="background-color: #e2f0d9; border-left: 5px solid #388e3c; padding: 12px 15px; margin: 15px 0; border-radius: 4px; color: #1e4620;">
+  <strong>NOTA:</strong> Repita os passos acima para todos os itens de sua contratação.
+</div>
+
+<br>
 
 ## Formação de Grupos de Itens
 
