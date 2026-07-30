@@ -10,15 +10,15 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Primeira etapa - criar uma contratação no sistema:
-  - Incluir dados básicos, fundamento legal e informações essenciais: 01-criar-contratacao.md
+    - Incluir dados básicos, fundamento legal e informações essenciais: 01-criar-contratacao.md
   - Segunda etapa - preencher informações da contratação:
-  - Incluir dados básicos: 02-dados-basicos.md
-  - Incluir dados adicionais: 03-dados-adicionais.md
-  - Incluir itens, formar grupos e adicionar benefícios: 04-itens-grupos.md
-  - Incluir anexos: 05-anexos.md
-  - Incluir responsáveis: 06-responsaveis.md
+    - Incluir dados básicos: 02-dados-basicos.md
+    - Incluir dados adicionais: 03-dados-adicionais.md
+    - Incluir itens, formar grupos e adicionar benefícios: 04-itens-grupos.md
+    - Incluir anexos: 05-anexos.md
+    - Incluir responsáveis: 06-responsaveis.md
   - Terceira etapa - divulgar a contratação: 
-  - Conferir e publicar: 07-divulgando.md
+    - Conferir e publicar: 07-divulgando.md
   - 🖨️Versão para Impressão: versao-impressao.md
 
 # Configuração dos estilos e scripts customizados
