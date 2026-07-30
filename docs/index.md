@@ -21,7 +21,9 @@ Neste tutorial, abordamos o <strong>passo a passo para publicação de um pregã
 
 ---
 
-## Formatos de Visualização
+<span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
+
+<br>
 
 Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
 
