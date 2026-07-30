@@ -10,16 +10,14 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Criando uma Contratação: 01-criar-contratacao.md
-  - Preenchendo informações da contratação: 
-      - Abertura da Etapa: segunda-etapa-abertura.md
-      - Incluir dados básicos: 02-dados-basicos.md
-      - Incluir dados adicionais: 03-dados-adicionais.md
-      - Incluir itens, formar grupos e adicionar benefícios: 04-itens-grupos.md
-      - Incluir anexos: 05-anexos.md
-      - Incluir responsáveis: 06-responsaveis.md
+  - Preenchendo informações da contratação: segunda-etapa-abertura.md
+  - Incluir dados básicos: 02-dados-basicos.md
+  - Incluir dados adicionais: 03-dados-adicionais.md
+  - Incluir itens, formar grupos e adicionar benefícios: 04-itens-grupos.md
+  - Incluir anexos: 05-anexos.md
+  - Incluir responsáveis: 06-responsaveis.md
   - Divulgando uma contratação: 07-divulgando.md
-  - 🖨️ Versão para Impressão: versao-impressao.md
-
+  - 🖨️Versão para Impressão: versao-impressao.md
 
 # Configuração dos estilos e scripts customizados
 extra_css:
