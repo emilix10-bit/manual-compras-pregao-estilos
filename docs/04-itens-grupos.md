@@ -227,9 +227,6 @@ Para a aplicação da exigência de conteúdo nacional, selecione a opção em t
   <strong>NOTA:</strong> Repita os passos acima para todos os itens de sua contratação.
 </div>
 
-# Grupos, Anexos, Responsáveis e Publicação
-
----
 
 ## Formação de Grupos de Itens
 
