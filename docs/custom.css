@@ -90,3 +90,17 @@
     color: #ccc;
     transform: scale(1.1);
 }
+
+/* Permite a quebra de linha para os títulos (texto azul) e links longos no menu lateral */
+.wy-menu-vertical p.caption,
+.wy-menu-vertical span.caption-text,
+.wy-menu-vertical a {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    line-height: 1.4 !important;
+}
+
+/* Dá um pequeno respiro (margem) abaixo dos títulos em azul para não ficar colado nos links */
+.wy-menu-vertical p.caption {
+    margin-bottom: 8px !important;
+}
