@@ -14,7 +14,7 @@ Aqui você vai ver como:
 - [Incluir anexos](05-anexos.md)
 - [Incluir responsáveis](06-responsaveis.md)
 
-Use o menu ao lado para navegar entre essas etapas.
+Você pode navegar por essas etapas usando o menu ao lado.
 
 <br>
 <div style="text-align: right; margin: 15px 0;">
