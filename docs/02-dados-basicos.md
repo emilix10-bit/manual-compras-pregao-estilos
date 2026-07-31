@@ -4,8 +4,6 @@
   </button>
 </div>
 
-# Segunda Etapa: Preenchendo informações da contratação
-Nesta etapa, preencheremos os dados básicos, o fundamento legal e as informações essenciais para a publicação do certame.
 
 # Preenchimento de dados da contratação
 
